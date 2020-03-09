@@ -1,4 +1,4 @@
-
+#!/bin/bash
 # Graphics switcher without reboot
 
 if [ "$(id -u)" != "0" ]; then
