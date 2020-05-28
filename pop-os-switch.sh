@@ -1,4 +1,5 @@
 #!/bin/bash
+# for pop-os
 # Graphics switcher without reboot
 
 if [ "$(id -u)" != "0" ]; then
