@@ -8,7 +8,7 @@ switch to integrated
 sudo ./fedora-switch.sh intel
 ```
 
-switch to discrete
+switch to discrete graphics (nvidia)
 ```
 sudo ./fedora-switch.sh nvidia
 ```
